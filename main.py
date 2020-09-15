@@ -22,7 +22,7 @@ def print_n(s,n):
 
 def run():
   num1 = int(input("Enter an int: "))
-  print(f"sum is {sum_n(num1)}")
+  print(f"sum is {sum_n(num1)}.")
   s = input("Enter a string: ")
   print_n(s, num1)
 
