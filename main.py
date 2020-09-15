@@ -24,6 +24,4 @@ def run():
   s = input("Enter a string: ")
   print_n(s, num1)
 
-
-__name__ == "__main__"
 run ()
