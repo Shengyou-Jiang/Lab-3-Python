@@ -24,4 +24,6 @@ def run():
   s = input("Enter a string: ")
   print_n(s, num1)
 
+
+if __name__ == "__main__"
 run ()
